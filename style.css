@@ -1,0 +1,83 @@
+
+body{
+    max-width: 1440px;
+    font-family: 'Inter-SemiBold', sans-serif;
+    background-color: hsl(0, 0%, 8%);
+    color: hsl(0, 0%, 100%);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card{
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 30px;
+    padding: 20px;
+}
+
+header img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 0 auto;
+    border-radius: 90px;
+}
+
+header h1{
+    text-align: center;
+}
+header p{
+    text-align: center;
+    color: hsl(75, 94%, 57%);
+}
+
+.main span{
+    text-align: center;
+}
+.menu ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.menu li{
+    width: 100%;
+    
+}
+button{
+    display: block;
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 7px;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 20%);
+    border-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+}
+
+button:hover{
+    color: hsl(0, 0%, 20%);
+    background-color: hsl(75, 94%, 57%);
+}
+
+.attribution{
+    font-size: 11px; text-align: center; 
+    color: hsl(0, 0%, 100%);
+    margin-top: 5px;
+  
+}
+.attribution a{
+    color: hsl(75, 94%, 57%);
+}
+
+
+
+
+
+
+
+
