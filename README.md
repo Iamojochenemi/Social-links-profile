@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github.com](https://github.com/Iamojochenemi/Social-links-profile.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [github.io](https://iamojochenemi.github.io/Social-links-profile/)
 
 ## My process
 
